@@ -20,6 +20,6 @@ Flutter | Dart | Firebase | Git & GitHub | Hive | NodeJS |
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/supratim-dhara-392b31215/)) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)]((https://twitter.com/supratimtwt))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/supratim-dhara-392b31215/) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)]((https://twitter.com/supratimtwt))
 
 Let's connect and explore the world of Flutter together! 🚀
