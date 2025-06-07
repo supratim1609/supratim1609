@@ -23,7 +23,6 @@
 
 ### 📫 Reach Me At
 - Email: **supratimdhara0@gmail.com**
-- Resume: [Click to View 📄](https://bit.ly/3MJjTZX)
 
 ---
 
