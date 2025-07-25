@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Supratim Dhara</h1>
-<h3 align="center">CSE Graduate`` from UEM, Kolkata | Flutter & Android Developer | Passionate about Mobile Innovation & Problem-Solving</h3>
+<h3 align="center">CSE Graduate from UEM, Kolkata | Flutter & Android Developer | Passionate about Mobile Innovation & Problem-Solving</h3>
 
 ---
 
