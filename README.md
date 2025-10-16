@@ -1,62 +1,51 @@
-<h1 align="center">Hi 👋 I'm Supratim Dhara</h1>
-<h3 align="center">CSE Graduate from UEM, Kolkata | Flutter & Android Developer | Passionate about Mobile Innovation & Problem-Solving</h3>
+<h1 align="center">Hey there 👋 I'm Supratim Dhara</h1>
+<h3 align="center">Building systems that work even when I don’t 😌 | Flutter + Android Native Engineer | CTO @ Calverts digital technologies</h3>
 
 ---
 
-🚀 I'm a mobile-first developer exploring the intersection of **Flutter** and **Android Native (Jetpack Compose)** to build fast, beautiful, and scalable apps.  
-🎯 Former **Founding Engineer at PegMan**, now open to **full-time opportunities** and exciting collaborations in mobile development.
+🚀 I’m a **mobile systems engineer** obsessed with how apps scale, sync, and survive bad networks.  
+I bridge **Flutter**’s elegance with **Android Native** power — crafting fast, offline-first, and beautiful experiences.  
+Ex-**Founding Engineer at PegMan**, now exploring projects that blend **architecture, performance, and developer sanity**.
 
 ---
 
-### 🔍 Currently
-- 🔨 Building scalable mobile apps using **Flutter**
-- 📱 Learning **Jetpack Compose**, **Swift**, and diving deeper into **Android native**
-- 🤝 Looking to collaborate on **cross-platform projects**
-- 🧠 Exploring **architecture, performance & offline-first** mobile app patterns
+### 🔭 What I’m Up To
+- 🧩 Architecting **Flutter** + **Jetpack Compose** apps that don’t crash under pressure  
+- 🧠 Experimenting with **self-healing systems** and smarter build pipelines  
+- 🌍 Advocating for **open-source** and cross-platform innovation  
+- 🤝 Open to collaborations that value *engineering craft over chaos*
 
 ---
 
-### 💬 Ask Me About
-- `Flutter`, `Dart`, `Kotlin`, `Java`, `Cross-platform architectures`
+### 🧰 Tech Stack
+**Languages & Frameworks:**  
+`Dart` · `Kotlin` · `Java` · `Swift` · `Flutter` · `Jetpack Compose`  
+
+**Backend & Tools:**  
+`Firebase` · `Appwrite` · `MongoDB` · `PostgreSQL` · `Node.js` · `Postman`  
+
+**Design & DevOps:**  
+`Figma` · `Framer` · `Git` · `CI/CD` · `Android Studio` · `VS Code`
 
 ---
 
-### 📫 Reach Me At
-- Email: **supratimdhara0@gmail.com**
+### 💬 Talk To Me About
+- Cross-platform architectures that *don’t feel cross*
+- App performance, caching, and async data pipelines
+- Building design systems for speed, not just aesthetics
+- How **crash logs** can be a spiritual experience 😅
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/supratimtwt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/supratimdhara/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/dhara.apk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://appwrite.io"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.framer.com/"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/></a>
-</p>
+### 📫 Let’s Connect
+📧 **supratimdhara0@gmail.com**  
+🐦 [Twitter](https://twitter.com/supratimtwt) • 💼 [LinkedIn](https://www.linkedin.com/in/supratimdhara/) • 📸 [Instagram](https://www.instagram.com/dhara.apk)
 
 ---
 
 ### ⚡ Fun Fact
-I started out with **Flutter** and now I'm building a love–hate relationship with **Android native**. Every crash log teaches me patience 😅
+My favorite debugging tool is still **console.log()** — not because it’s the best, but because it never judges.
 
 ---
+
+> *“You think it, I build it.”* — probably me in a stand-up someday.
