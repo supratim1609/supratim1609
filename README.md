@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Supratim Dhara</h1>
-<h3 align="center">Building systems that work even when I don’t 😌 | Flutter + Android Native Engineer | CTO @ Calverts digital technologies</h3>
+<h3 align="center">Building systems that work even when I don’t 😌 | Flutter + Android Native Engineer </h3>
 
 ---
 
