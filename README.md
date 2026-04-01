@@ -1,4 +1,4 @@
-<h1 align="center">Supratim Dhara ⚡</h1>
+<h1 align="center">Supratim Dhara </h1>
 <h3 align="center">Don’t hire me for tasks. Bring me when things break.</h3>
 
 <p align="center">
